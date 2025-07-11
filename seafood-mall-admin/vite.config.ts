@@ -30,6 +30,6 @@ export default defineConfig({
         changeOrigin: true,
       }
     },
-    allowedHosts: ['mall.demo.icodestar.net']
+    allowedHosts: ['h5-mall.demo.icodestar.net','admin-mall.demo.icodestar.net']
   }
 }) 

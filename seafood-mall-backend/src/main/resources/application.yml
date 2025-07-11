@@ -54,5 +54,5 @@ logging:
     org.springframework.security: debug
 
 upload:
-  path: ./uploads/
+  path: C:/Users/heyq/Deployment/ICodeStarMall_Basic/backend/uploads/
   url-prefix: /uploads/ 
