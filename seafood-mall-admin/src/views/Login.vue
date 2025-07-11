@@ -125,13 +125,31 @@
     
     <!-- 演示账号信息 -->
     <div class="demo-accounts">
-      <div>后端Admin演示账号密码：<br>superadmin / admin123</div>
+      <div class="demo-section">
+        <div class="demo-title">该项目已MIT开源，欢迎学习使用：</div>
+        <div class="demo-title">gitee地址：</div>
+        <div class="demo-content">
+          <a href="https://gitee.com/heyqzz/icodestarmall_basic" target="_blank" class="demo-link">https://gitee.com/heyqzz/icodestarmall_basic</a>
+        </div>
+        <div class="demo-title">github地址：</div>
+        <div class="demo-content">
+          <a href="https://github.com/hyqzz/ICodeStarMall_Basic" target="_blank" class="demo-link">https://github.com/hyqzz/ICodeStarMall_Basic</a>
+        </div>
+      </div>
       <br>
-      <div>
-        <div>前端H5演示地址：</div>
-        <a href="https://h5-mall.demo.icodestar.net" target="_blank" class="copyright-link h5-demo-link">https://h5-mall.demo.icodestar.net</a>
+      <div class="demo-section">
+        <div class="demo-title">后端管理演示账号密码：</div>
+        <div class="demo-content">superadmin / admin123</div>
+      </div>
+      <br>
+      <div class="demo-section">
+        <div class="demo-title">前端H5演示地址：</div>
+        <div class="demo-content">
+          <a href="https://h5-mall.demo.icodestar.net" target="_blank" class="demo-link">https://h5-mall.demo.icodestar.net</a>
+        </div>
       </div>
     </div>
+
     <!-- 版权信息 -->
     <div class="copyright">
       <span>ICodeStar 智码星科技</span><br>
