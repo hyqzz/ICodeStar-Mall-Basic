@@ -9,7 +9,7 @@
 <template>
   <div class="h5-app">
     <van-nav-bar
-      title="鲜海达"
+      title="智码星商城"
       fixed
       placeholder
       left-arrow

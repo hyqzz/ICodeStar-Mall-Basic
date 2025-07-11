@@ -73,6 +73,13 @@ export const userApi = {
     });
   },
 
+  getUserInfo(id: number): Promise<Result<User>> {
+    return request({
+      url: `/api/admin/users/${id}`,
+      method: 'get'
+    });
+  },
+
   // TODO: Add other user APIs (e.g., getUserById, updateUser, checkUsername) as needed
 }
 

@@ -11,8 +11,8 @@
     <el-card class="login-card">
       <template #header>
         <div class="card-header">
-          <img src="../assets/logo.png" alt="Logo" class="logo" />
-          <h2>鲜海达后台管理系统</h2>
+          <img src="../assets/logo.svg" alt="Logo" class="logo" />
+          <h2>智码星商城后台管理系统</h2>
         </div>
       </template>
       

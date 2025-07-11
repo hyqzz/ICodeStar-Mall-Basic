@@ -47,7 +47,7 @@ export const useUserStore = defineStore('user', () => {
   const getUserInfo = async () => {
     try {
       const response = await userApi.getUserInfo(userInfo.value.id!)
-      const { data } = response.data
+      const { data } = response
       if (data) {
         userInfo.value = data
       }
