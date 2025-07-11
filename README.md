@@ -1,4 +1,4 @@
-# 商城系统 (Seafood Mall System)
+# 商城系统 (ICodeStar Mall System)
 
 ## 项目简介
 
@@ -6,9 +6,13 @@
 https://www.icodestar.net
 
 
-商城系统是一个基于 Spring Boot + Vue.js 的现代化电商平台，专为产品销售而设计。系统采用前后端分离架构，包含管理后台、H5移动端和RESTful API后端服务，提供完整的电商解决方案。
+该商城系统是一个基于 Spring Boot + Vue.js 的现代化电商平台，专为产品销售而设计。系统采用前后端分离架构，包含管理后台、H5移动端和RESTful API后端服务，提供完整的电商解决方案。
 
 这个项目非常适合作为学习全栈开发的示例，或者作为小型电商项目的起点。代码结构清晰，文档完善，部署方案多样，是一个很好的全栈项目示例。
+
+giee 已开源     https://gitee.com/heyqzz/icodestarmall_basic
+github 已开源   https://github.com/hyqzz/ICodeStarMall_Basic
+
 
 ## 技术栈
 
