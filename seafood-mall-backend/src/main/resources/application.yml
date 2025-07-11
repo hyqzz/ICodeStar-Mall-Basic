@@ -13,14 +13,14 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/seafood_mall_db?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
     username: root
-    password: root
+    password: Hh468520!
   jackson:
     date-format: yyyy-MM-dd HH:mm:ss
     time-zone: GMT+8
   servlet:
     multipart:
       max-file-size: 10MB
-      max-request-size: 10MB
+      max-request-size: 100MB
       enabled: true
   mvc:
     pathmatch:
@@ -54,5 +54,5 @@ logging:
     org.springframework.security: debug
 
 upload:
-  path: C:/Users/heyq/Deployment/ICodeStarMall_Basic/backend/uploads/
+  path: /opt/demo/uploads/
   url-prefix: /uploads/ 
