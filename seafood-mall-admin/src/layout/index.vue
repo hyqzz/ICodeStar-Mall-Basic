@@ -10,7 +10,7 @@
   <el-container class="layout-container">
     <el-aside width="200px">
       <div class="logo">
-        <img src="../assets/logo.svg" alt="Logo" />
+        <img src="../assets/logo.png" alt="Logo" />
         <span>智码星商城后台</span>
       </div>
       <el-menu
