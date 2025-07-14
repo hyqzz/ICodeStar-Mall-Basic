@@ -138,7 +138,7 @@
       </div>
       <br>
       <div class="demo-section">
-        <div class="demo-title">后端管理演示账号密码：</div>
+        <div class="demo-title">后端管理演示账号密码(请在桌面端登录)：</div>
         <div class="demo-content">superadmin / admin123</div>
       </div>
       <br>
@@ -288,6 +288,7 @@ const handleRegister = async () => {
 .login-container {
   height: 100vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   background: url('@/assets/login.png') no-repeat center center;
@@ -351,11 +352,8 @@ const handleRegister = async () => {
 }
 
 .demo-accounts {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
   width: 400px;
-  bottom: 140px;
+  margin: 24px auto 0 auto;
   text-align: left;
   color: #222;
   font-size: 14px;
@@ -364,11 +362,10 @@ const handleRegister = async () => {
   pointer-events: none;
 }
 @media (max-width: 500px) {
+  .login-card,
   .demo-accounts {
     width: 90vw;
     min-width: 0;
-    left: 50%;
-    transform: translateX(-50%);
     font-size: 13px;
   }
 }
