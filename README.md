@@ -14,7 +14,7 @@ giee 已开源     https://gitee.com/heyqzz/icodestarmall_basic
 github 已开源   https://github.com/hyqzz/ICodeStarMall_Basic
 
 演示：<br>
-前端H5（手机浏览器访问，需支持IPV6网络（WIFI不行就用手机流量））<br>
+前端H5（手机浏览器访问，需支持IPV6网络（WIFI不行可以用手机流量））<br>
 https://h5-mall.demo.icodestar.net <br>
 用户名：user <br>
 密码：  user123 <br>
