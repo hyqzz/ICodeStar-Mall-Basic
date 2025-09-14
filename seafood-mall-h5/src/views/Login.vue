@@ -40,6 +40,10 @@
     <!-- 演示账号信息 -->
     <div class="demo-accounts">
       <div class="demo-section">
+        <div class="demo-title">注意：演示商城，不发货不退款！</div>
+      </div>
+      <br>
+      <div class="demo-section">
         <div class="demo-title">该项目已MIT开源，欢迎学习使用：</div>
         <div class="demo-title">gitee地址：</div>
         <div class="demo-content">
